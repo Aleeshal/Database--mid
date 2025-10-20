@@ -1,0 +1,58 @@
+[
+  {
+    "user_id": { "$oid": "68f47c8252a77e915e6c181a" },
+    "products": [
+      { "product_id": { "$oid": "68f47c5d52a77e915e6c1815" }, "quantity": 1, "price": 1299 }
+    ],
+    "total_cost": 1299,
+    "timestamp": { "$date": "2025-11-05T14:00:00Z" }
+  },
+  {
+    "user_id": { "$oid": "68f47c8252a77e915e6c181b" },
+    "products": [
+      { "product_id": { "$oid": "68f47c5d52a77e915e6c1816" }, "quantity": 1, "price": 599 }
+    ],
+    "total_cost": 599,
+    "timestamp": { "$date": "2025-11-10T11:30:00Z" }
+  },
+  {
+    "user_id": { "$oid": "68f47c8252a77e915e6c181c" },
+    "products": [
+      { "product_id": { "$oid": "68f47c5d52a77e915e6c1817" }, "quantity": 1, "price": 399 }
+    ],
+    "total_cost": 399,
+    "timestamp": { "$date": "2025-10-25T15:45:00Z" }
+  },
+  {
+    "user_id": { "$oid": "68f47c8252a77e915e6c181d" },
+    "products": [
+      { "product_id": { "$oid": "68f47c5d52a77e915e6c1818" }, "quantity": 1, "price": 3899 }
+    ],
+    "total_cost": 3899,
+    "timestamp": { "$date": "2025-11-12T10:20:00Z" }
+  },
+  {
+    "user_id": { "$oid": "68f47c8252a77e915e6c181e" },
+    "products": [
+      { "product_id": { "$oid": "68f47c5d52a77e915e6c1819" }, "quantity": 1, "price": 499 }
+    ],
+    "total_cost": 499,
+    "timestamp": { "$date": "2025-11-20T16:30:00Z" }
+  },
+  {
+    "user_id": { "$oid": "68f47c8252a77e915e6c181f" },
+    "products": [
+      { "product_id": { "$oid": "68f47c5d52a77e915e6c1815" }, "quantity": 1, "price": 1299 }
+    ],
+    "total_cost": 1299,
+    "timestamp": { "$date": "2025-11-18T09:15:00Z" }
+  },
+  {
+    "user_id": { "$oid": "68f47c8252a77e915e6c1820" },
+    "products": [
+      { "product_id": { "$oid": "68f47c5d52a77e915e6c1817" }, "quantity": 1, "price": 399 }
+    ],
+    "total_cost": 399,
+    "timestamp": { "$date": "2025-11-15T13:40:00Z" }
+  }
+]

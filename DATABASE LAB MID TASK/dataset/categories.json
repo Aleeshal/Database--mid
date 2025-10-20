@@ -1,0 +1,7 @@
+[
+  { "name": "Smartphones", "description": "Latest mobile phones and smartphones" },
+  { "name": "Gaming", "description": "Gaming consoles and accessories" },
+  { "name": "Audio", "description": "Speakers, headphones, and audio equipment" },
+  { "name": "Cameras", "description": "DSLR, mirrorless, and action cameras" },
+  { "name": "Wearables", "description": "Smartwatches and fitness trackers" }
+]

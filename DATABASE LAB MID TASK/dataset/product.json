@@ -1,0 +1,62 @@
+[
+  {
+    "_id": { "$oid": "68f47c5d52a77e915e6c1815" },
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "6.8-inch Dynamic AMOLED, Snapdragon 8 Gen 3, 512GB Storage",
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "price": 1299,
+    "rating": 4.8,
+    "stock": 15,
+    "popularity": 280,
+    "created_at": { "$date": "2025-10-15T09:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "68f47c5d52a77e915e6c1816" },
+    "name": "PlayStation 5 Pro",
+    "description": "4K Gaming Console with 2TB SSD, Ray Tracing Support",
+    "category": "Gaming",
+    "brand": "Sony",
+    "price": 599,
+    "rating": 4.9,
+    "stock": 8,
+    "popularity": 450,
+    "created_at": { "$date": "2025-10-20T11:30:00Z" }
+  },
+  {
+    "_id": { "$oid": "68f47c5d52a77e915e6c1817" },
+    "name": "Sony WH-1000XM5 Headphones",
+    "description": "Wireless Noise Cancelling Over-Ear Headphones, 30hr battery",
+    "category": "Audio",
+    "brand": "Sony",
+    "price": 399,
+    "rating": 4.7,
+    "stock": 25,
+    "popularity": 320,
+    "created_at": { "$date": "2025-09-25T14:15:00Z" }
+  },
+  {
+    "_id": { "$oid": "68f47c5d52a77e915e6c1818" },
+    "name": "Canon EOS R5 Mark II",
+    "description": "45MP Full Frame Mirrorless Camera, 8K Video Recording",
+    "category": "Cameras",
+    "brand": "Canon",
+    "price": 3899,
+    "rating": 4.9,
+    "stock": 5,
+    "popularity": 180,
+    "created_at": { "$date": "2025-11-01T10:45:00Z" }
+  },
+  {
+    "_id": { "$oid": "68f47c5d52a77e915e6c1819" },
+    "name": "Apple Watch Series 9",
+    "description": "45mm GPS + Cellular, Always-On Retina Display, Fitness Tracker",
+    "category": "Wearables",
+    "brand": "Apple",
+    "price": 499,
+    "rating": 4.6,
+    "stock": 30,
+    "popularity": 380,
+    "created_at": { "$date": "2025-10-10T13:20:00Z" }
+  }
+]

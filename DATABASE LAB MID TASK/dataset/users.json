@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Ayesha Khan",
+    "email": "ayesha.khan@example.com",
+    "location": "Lahore, Pakistan",
+    "purchase_history": []
+  },
+  {
+    "name": "Bilal Ahmed",
+    "email": "bilal.ahmed@example.com",
+    "location": "Karachi, Pakistan",
+    "purchase_history": []
+  },
+  {
+    "name": "Fatima Raza",
+    "email": "fatima.raza@example.com",
+    "location": "Islamabad, Pakistan",
+    "purchase_history": []
+  },
+  {
+    "name": "Hassan Malik",
+    "email": "hassan.malik@example.com",
+    "location": "Rawalpindi, Pakistan",
+    "purchase_history": []
+  },
+  {
+    "name": "Sana Sheikh",
+    "email": "sana.sheikh@example.com",
+    "location": "Faisalabad, Pakistan",
+    "purchase_history": []
+  },
+  {
+    "name": "Omar Farooq",
+    "email": "omar.farooq@example.com",
+    "location": "Peshawar, Pakistan",
+    "purchase_history": []
+  },
+  {
+    "name": "Zainab Ali",
+    "email": "zainab.ali@example.com",
+    "location": "Multan, Pakistan",
+    "purchase_history": []
+  },
+  {
+    "name": "Usman Cheema",
+    "email": "usman.cheema@example.com",
+    "location": "Gujranwala, Pakistan",
+    "purchase_history": []
+  },
+  {
+    "name": "Rabia Hassan",
+    "email": "rabia.hassan@example.com",
+    "location": "Quetta, Pakistan",
+    "purchase_history": []
+  },
+  {
+    "name": "Tariq Mahmood",
+    "email": "tariq.mahmood@example.com",
+    "location": "Sialkot, Pakistan",
+    "purchase_history": []
+  }
+]

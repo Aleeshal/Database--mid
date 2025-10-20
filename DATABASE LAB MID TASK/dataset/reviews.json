@@ -1,0 +1,51 @@
+[
+  {
+    "user_id": { "$oid": "68f47c8252a77e915e6c181a" },
+    "product_id": { "$oid": "68f47c5d52a77e915e6c1816" },
+    "rating": 5,
+    "review_text": "PlayStation 5 is incredible! Graphics are mind-blowing and loading times are super fast. Perfect for gaming nights with friends.",
+    "review_date": { "$date": "2025-11-05T14:30:00Z" }
+  },
+  {
+    "user_id": { "$oid": "68f47c8252a77e915e6c181b" },
+    "product_id": { "$oid": "68f47c5d52a77e915e6c1816" },
+    "rating": 4,
+    "review_text": "Great console but wish it had more storage space out of the box. Otherwise, gaming experience is amazing!",
+    "review_date": { "$date": "2025-11-08T10:15:00Z" }
+  },
+  {
+    "user_id": { "$oid": "68f47c8252a77e915e6c181c" },
+    "product_id": { "$oid": "68f47c5d52a77e915e6c1817" },
+    "rating": 5,
+    "review_text": "Sony WH-1000XM4 headphones are worth every penny! Noise cancellation is magical. Perfect for travel and studying.",
+    "review_date": { "$date": "2025-11-12T16:45:00Z" }
+  },
+  {
+    "user_id": { "$oid": "68f47c8252a77e915e6c181d" },
+    "product_id": { "$oid": "68f47c5d52a77e915e6c1818" },
+    "rating": 5,
+    "review_text": "Canon EOS R5 is a professional beast! 8K video quality is stunning. Best camera for professional photography in Pakistan.",
+    "review_date": { "$date": "2025-11-15T09:20:00Z" }
+  },
+  {
+    "user_id": { "$oid": "68f47c8252a77e915e6c181e" },
+    "product_id": { "$oid": "68f47c5d52a77e915e6c1819" },
+    "rating": 4,
+    "review_text": "Apple Watch Series 9 has great features but battery could last longer. Fitness tracking is very accurate for my workouts.",
+    "review_date": { "$date": "2025-11-18T13:10:00Z" }
+  },
+  {
+    "user_id": { "$oid": "68f47c8252a77e915e6c181f" },
+    "product_id": { "$oid": "68f47c5d52a77e915e6c1815" },
+    "rating": 5,
+    "review_text": "Samsung Galaxy S24 Ultra is amazing! The camera quality is perfect for capturing Pakistani landscapes. Fast delivery in Lahore.",
+    "review_date": { "$date": "2025-11-20T11:30:00Z" }
+  },
+  {
+    "user_id": { "$oid": "68f47c8252a77e915e6c1820" },
+    "product_id": { "$oid": "68f47c5d52a77e915e6c1817" },
+    "rating": 5,
+    "review_text": "Best headphones I've ever used! Perfect for listening to Pakistani music with crystal clear sound quality.",
+    "review_date": { "$date": "2025-11-22T15:45:00Z" }
+  }
+]
